@@ -2,6 +2,7 @@ require('cohi.remap')
 require('cohi.set')
 require('cohi.lazy_init')
 
+ColorMyPencils()
 local augroup = vim.api.nvim_create_augroup
 local CohiGroup  = augroup('cohi', {})
 

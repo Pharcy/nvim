@@ -11,7 +11,6 @@ return {
     {
         "erikbackman/brightburn.vim",
     },
-
     {
         "folke/tokyonight.nvim",
         lazy = false,
